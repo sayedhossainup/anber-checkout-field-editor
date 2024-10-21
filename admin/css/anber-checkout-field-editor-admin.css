@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.divwrwpper, .divwrwpper>div{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
