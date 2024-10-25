@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://github.com/frahim
+ * @link              https://github.com/sayedhossainup/anber-checkout-field-editor/
  * @since             1.0.0
  * @package           Anber_Checkout_Field_Editor
  *
  * @wordpress-plugin
  * Plugin Name:       Anber Checkout Field Editor
- * Plugin URI:        https://github.com/frahim
+ * Plugin URI:        https://github.com/sayedhossainup/anber-checkout-field-editor/
  * Description:       WooCommerce Checkout Field Editor
  * Version:           1.0.0
- * Author:            Md Yeasir Arafat
- * Author URI:        https://github.com/frahim/
+ * Author:            Sayed Hossain
+ * Author URI:        https://github.com/sayedhossainup/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       anber-checkout-field-editor
